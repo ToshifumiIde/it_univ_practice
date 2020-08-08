@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+}
+
+section {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.appTitle,
+#target,
+.counterButtons {
+  text-align: center;
+}
+
+.targetPlace {
+  background-color: #ccc;
+}
+
+button {
+  width: 40px;
+}
